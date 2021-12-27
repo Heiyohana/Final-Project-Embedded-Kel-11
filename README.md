@@ -7,7 +7,7 @@ Final Project ini beranggotakan 4 orang diantaranya : <br>
 2. 119140014 - Oktaviani <br> 
 3. 119140024 - Viranti <br>
 4. 119140054 - Silvia <br>
-
+<br><br>
 Adapun alat-alat kami ini membutuhkan beberapa komponen diantaranya : <br>
 1. Sensor Capasitif Proximity <br>
 2. Sensor HC-SR04 <br>
