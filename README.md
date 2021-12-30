@@ -8,6 +8,10 @@ Final Project ini beranggotakan 4 orang diantaranya : <br>
 3. 119140024 - Viranti <br>
 4. 119140054 - Silvia <br>
 
+# Link Video Demo
+  Adapun Alat kami dapat terlihat pada link youtube berikut :
+    https://youtu.be/fsp5q1aLPjY
+  
 # Penjelasan Project
     Ini merupakan sebuah projek alat pemilah sampah organik dan anorganik otomatis. Dimana ketika sampah dibuang, maka alat tersebut akan mendeteksi jenis sampah yaitu organik atau anorganik secara otomatis. 
     
