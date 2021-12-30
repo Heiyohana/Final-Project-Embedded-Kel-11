@@ -8,6 +8,10 @@ Final Project ini beranggotakan 4 orang diantaranya : <br>
 3. 119140024 - Viranti <br>
 4. 119140054 - Silvia <br>
 
+# Link Video Demo
+  Adapun Alat kami dapat terlihat pada link youtube berikut :
+    https://youtu.be/fsp5q1aLPjY
+  
 # Penjelasan Project
     Ini merupakan sebuah projek alat pemilah sampah organik dan anorganik otomatis. Dimana ketika sampah dibuang, maka alat tersebut akan mendeteksi jenis sampah yaitu organik atau anorganik secara otomatis. 
     
@@ -17,16 +21,15 @@ Final Project ini beranggotakan 4 orang diantaranya : <br>
     3. Micro Servo 
     4. Arduino Uno 
     5. Adaptor 240V 2A
-    6. Kabel Jumper 
-    7. Board PCB
-    8. Kabel USB
-    9. Solder 
-    10. Lem Bakar
-    11. Timah 
-    12. LED 
-    13. Baut dan Mur 
-    14. Kardus 
-    15. Kertas kado (hiasan)
+    6. Kabel Jumper
+    7. Kabel USB AB
+    8. Solder 
+    9. Lem Bakar
+    10. Timah 
+    11. LED 
+    12. Baut dan Mur 
+    13. Kardus 
+    14. Kertas kado (hiasan)
 
 # Cara Kerja 
   Project ini nantinya akan mengkategorikan jenis sampah ke sampah organik dan anorganik. Alat ini nantinya menerima inputan sampah dari user dengan dua kondisi: <br>
@@ -38,6 +41,7 @@ Final Project ini beranggotakan 4 orang diantaranya : <br>
     Ada beberapa sampel sampah yang telah kami uji sebelumnya, antara lain :
     1. Kulit Salak => Organik
     2. Kulit Duku => Organik
+    3. Kulit Pisang => Organik
     3. Kaleng Minuman Soda => Anorganik
     4. Gantungan Kunci => Anorganik
     5. Gunting Bekas => Anorganik
