@@ -38,6 +38,7 @@ Final Project ini beranggotakan 4 orang diantaranya : <br>
     Ada beberapa sampel sampah yang telah kami uji sebelumnya, antara lain :
     1. Kulit Salak => Organik
     2. Kulit Duku => Organik
+    3. Kulit Pisang => Organik
     3. Kaleng Minuman Soda => Anorganik
     4. Gantungan Kunci => Anorganik
     5. Gunting Bekas => Anorganik
